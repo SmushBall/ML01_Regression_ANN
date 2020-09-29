@@ -13,23 +13,23 @@ Sklearn, Tensorflow and Keras for Training and Validation
 
 Steps:
 
-##1) Import Libraries
+## 1) Import Libraries
 
-##2) Read and Explore the dataset using Pandas
+## 2) Read and Explore the dataset using Pandas
 
-##3) Visualise Data
+## 3) Visualise Data
 
-##4) Decide on Input features and perform Data cleaning
+## 4) Decide on Input features and perform Data cleaning
 
-##5) Normalize the Data using MinMaxScaler
+## 5) Normalize the Data using MinMaxScaler
 
-##6) Split the dataset into Training & Testing Set
+## 6) Split the dataset into Training & Testing Set
 
-##7) Create Neural Network Layer using the Neurons in a Sequential fashion
+## 7) Create Neural Network Layer using the Neurons in a Sequential fashion
 
-##8) Train the model again and again using different set of parameters, epochs, Neurons, Activation Function
+## 8) Train the model again and again using different set of parameters, epochs, Neurons, Activation Function
 
-##9) Evaluate the Model on the test set
+## 9) Evaluate the Model on the test set
 
-##10) Predict using a given input criteria
+## 10) Predict using a given input criteria
 
